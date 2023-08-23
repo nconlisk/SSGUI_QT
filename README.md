@@ -1,5 +1,5 @@
 # SSGUI_QT
- Secret Santa Desktop App using PyQT
+ Secret Santa Desktop App using PyQt
 
 Requirements:
 
